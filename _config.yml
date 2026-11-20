@@ -1,0 +1,33 @@
+title: "CompChemKit: an Android app for computational chemistry"
+description: An Android app for everyday work in computational chemistry and molecular modelling, with a lab notebook, literature hub, HPC workbench, structure studio and paper kit.
+author: Alexandre V. Pinto
+lang: en
+image: /assets/img/compchemkit.png
+
+# Download shown at the top of the page. Update both when a new APK is released.
+apk: compchemkit-1.0.0.apk
+version: 1.0.0
+
+# Topic name and colour this entry has on the home page (arvpinto.github.io, _data/categories.yml).
+topic: Software
+topic_color: "#ffdb13"
+
+# Home page (the menu bar links to its Portfolio and About sections) and this repository.
+home_url: https://arvpinto.github.io/
+home_label: Portfolio
+repo_url: https://github.com/arvpinto/compchemkit
+
+# Name and affiliation shown under the title (same lines as on the home page).
+author_degree: PhD in Chemistry
+affiliation:
+  - High Performance Computing in Molecular Modelling Research Group, LAQV-REQUIMTE
+  - Department of Chemistry and Biochemistry, Faculty of Sciences, University of Porto
+
+# Licence named in the footer (the LICENSE file of the repository).
+license:
+  name: CC0 1.0 Universal
+  url: https://github.com/arvpinto/compchemkit/blob/main/LICENSE
+
+# The page uses its own layout and stylesheet (no remote theme), matching the home page.
+plugins:
+  - jekyll-seo-tag
