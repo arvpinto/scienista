@@ -1305,9 +1305,9 @@
     }
   };
 
-  /* CompChemKit: a phone cycling through the five modules of the app. */
+  /* Scienista: a phone cycling through the five modules of the app. */
   var MODULES = ['Lab notebook', 'Literature hub', 'HPC workbench', 'Structure studio', 'Paper kit'];
-  SCENES.compchemkit = {
+  SCENES.scienista = {
     file: null, period: 15, still: 9.4,
     init: function () {
       var mol = [], ring = [];

@@ -1,4 +1,4 @@
-/* CompChemKit guide:
+/* Scienista guide:
    0. light and dark mode (same choice as on the home page),
    1. contents list, section highlighting and screenshot viewer.
    Each part is independent and the page works without any of them.
